@@ -24,7 +24,7 @@ function CustomAuthenticator() {
 					...input.options,
 					userAttributes: {
 						...input.options?.userAttributes,
-						"custom:isSetup": "0",
+						"custom:isSetup": "0", as string,
 					},
 				},
 			});
