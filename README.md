@@ -16,6 +16,13 @@ This template equips you with a foundational Next.js application integrated with
 
 For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/nextjs/start/quickstart/nextjs-app-router-client-components/#deploy-a-fullstack-app-to-aws) of our documentation.
 
+## UI
+
+![image](https://github.com/user-attachments/assets/91b2dbaf-1e06-4054-8d7f-73b236e9f410)
+
+![image](https://github.com/user-attachments/assets/5ad94607-8158-4764-a6fc-178e4ac63a35)
+
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
